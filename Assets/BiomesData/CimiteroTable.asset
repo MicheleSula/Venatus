@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1047f6672899c164d9073bdf55b75e42, type: 3}
+  m_Name: CimiteroTable
+  m_EditorClassIdentifier: 
+  biomeName: Cimitero
+  spawnOptions:
+  - enemyPrefab: {fileID: 8206864323778157011, guid: ec3056810581d224981f64ab3bc31539, type: 3}
+    enemyData: {fileID: 11400000, guid: 5ac555da5d839f8488b87ec86f523e6e, type: 2}
+    weight: 72.2
+  - enemyPrefab: {fileID: 8206864323778157011, guid: f5b09caf38f470043ab534397b4de526, type: 3}
+    enemyData: {fileID: 11400000, guid: ca38a9036bb812d4a80d1076f9cffe16, type: 2}
+    weight: 10.5
+  - enemyPrefab: {fileID: 8206864323778157011, guid: ec3056810581d224981f64ab3bc31539, type: 3}
+    enemyData: {fileID: 11400000, guid: 5ac555da5d839f8488b87ec86f523e6e, type: 2}
+    weight: 4
+  - enemyPrefab: {fileID: 8206864323778157011, guid: ec3056810581d224981f64ab3bc31539, type: 3}
+    enemyData: {fileID: 0}
+    weight: 100
+  - enemyPrefab: {fileID: 8206864323778157011, guid: ec3056810581d224981f64ab3bc31539, type: 3}
+    enemyData: {fileID: 0}
+    weight: 100
+  - enemyPrefab: {fileID: 8206864323778157011, guid: ec3056810581d224981f64ab3bc31539, type: 3}
+    enemyData: {fileID: 0}
+    weight: 100

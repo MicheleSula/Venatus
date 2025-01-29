@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d78b737086daf45a61fc82c056fe4c, type: 3}
+  m_Name: Ominidi
+  m_EditorClassIdentifier: 
+  familyName: Ominidi
+  baseResistances:
+  - damageType: 2
+    multiplier: 0.5
+  - damageType: 7
+    multiplier: 1
+  - damageType: 8
+    multiplier: 1
+  baseAttackModifier: 20
+  baseDefenseModifier: 5
+  baseSpeedModifier: 8

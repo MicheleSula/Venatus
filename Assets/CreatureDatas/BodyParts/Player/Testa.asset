@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c2af66b5062593419ae8f5f9bca92cb, type: 3}
+  m_Name: Testa
+  m_EditorClassIdentifier: 
+  itemName: Testa
+  icon: {fileID: -3309083936279178280, guid: 5545c6413134b0148bf017efa0b9aec1, type: 3}
+  itemType: 3
+  description: Testa test
+  maxStack: 99
+  maxHealth: 20
+  currentHealth: 1
+  attackModifier: 20
+  defenseModifier: 20
+  speedModifier: 20
+  additionalResistances: []
+  overrideComposition: {fileID: 11400000, guid: 956a838783006b84190c2572ac41f2c4, type: 2}
+  partMoves: []
+  healthySprite: {fileID: 21300000, guid: abb890f56a023bf4183219ce5a59cebd, type: 3}
+  damagedSprite: {fileID: 21300000, guid: 9b442443684640e49ae4ddcfa9659bd6, type: 3}

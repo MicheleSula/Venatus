@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c2af66b5062593419ae8f5f9bca92cb, type: 3}
+  m_Name: BraccioScheletro
+  m_EditorClassIdentifier: 
+  itemName: Braccio
+  icon: {fileID: 0}
+  itemType: 1
+  description: Braccio di scheletro
+  maxStack: 99
+  attackModifier: 2
+  defenseModifier: 1
+  speedModifier: 1
+  additionalResistances: []
+  overrideComposition: {fileID: 11400000, guid: ae885715e7cf4384b8a336eaa9f8f7a3, type: 2}

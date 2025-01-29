@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1047f6672899c164d9073bdf55b75e42, type: 3}
+  m_Name: PaludeTable
+  m_EditorClassIdentifier: 
+  biomeName: Palude
+  spawnOptions:
+  - enemyPrefab: {fileID: 8206864323778157011, guid: ec3056810581d224981f64ab3bc31539, type: 3}
+    enemyData: {fileID: 11400000, guid: 5ac555da5d839f8488b87ec86f523e6e, type: 2}
+    weight: 100

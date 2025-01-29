@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fbea2d118586fa43b37c087982e0fde
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ForestaTable: {fileID: 11400000, guid: 8e8bde57530946540a7893442318a308, type: 2}
+  - PaludeTable: {fileID: 11400000, guid: b7f5d911c60f12240a94787d4c0319df, type: 2}
+  - CimiteroTable: {fileID: 11400000, guid: c232735df0b11c1489f2ecfabb4ddd4b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

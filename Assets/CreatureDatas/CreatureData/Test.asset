@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e3fb242e2cc93419d71ca2e327cb10, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  creatureName: Test
+  sprite: {fileID: 21300000, guid: 06b7cd1b9a103644aaf2a231667f1231, type: 3}
+  family: {fileID: 11400000, guid: a5278f9c32431754b8adcce7c0e61e58, type: 2}
+  species: {fileID: 11400000, guid: 6a106106e0f0d4a42a7435b153c36081, type: 2}
+  composition: {fileID: 11400000, guid: 956a838783006b84190c2572ac41f2c4, type: 2}
+  defaultTraits: []
+  defaultBodyParts:
+  - {fileID: 11400000, guid: 9c06dd3ea6c18534ab561f0d3e87d60b, type: 2}
+  - {fileID: 11400000, guid: cfd593bb44f233b43b8dfb9a0ec39f2d, type: 2}
+  - {fileID: 11400000, guid: b62929fd1f0ca0243b427cd60ffd73a3, type: 2}
+  - {fileID: 11400000, guid: d7cf9b6a239ccc843884441a42f43d46, type: 2}
+  - {fileID: 11400000, guid: 51dda952574b6b3429527356818d3064, type: 2}
+  - {fileID: 11400000, guid: bd9f645c1041f614bbf0497b6a8dab5b, type: 2}
+  lootItem: {fileID: 0}
+  lootQuantity: 0
