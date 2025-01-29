@@ -1,0 +1,46 @@
+# File generati dal sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# File specifici dell'utente
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Cartelle generate da Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets/aa/
+MemoryCaptures/
+
+/Assets/Plugins/GitHub/Editor/IgnoreLockFiles.cs
+
+# Plugin autogenerati da JetBrains Rider
+/*.sln.iml
+
+# Directory cache di Visual Studio
+.vs/
+
+# File generato da Unity3D nei crash report
+sysinfo.txt
+
+# Build
+*.apk
+*.unitypackage
